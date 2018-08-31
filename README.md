@@ -1,4 +1,4 @@
-![Bio Ritmo / Smart Fit](https://avatars0.githubusercontent.com/u/131419?s=200&v=4)
+![Bio Ritmo / Smart Fit](biodevteam-2018.png)
 
 # Teste de Front-end
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos. **Faça um fork deste repositório.**
