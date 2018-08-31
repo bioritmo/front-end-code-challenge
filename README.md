@@ -1,7 +1,7 @@
 ![Bio Ritmo / Smart Fit](https://avatars0.githubusercontent.com/u/131419?s=200&v=4)
 
 # Teste de Front-end
-Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
+Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos. **Faça um fork deste repositório**
 
 ### O Desafio
 
