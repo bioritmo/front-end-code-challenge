@@ -1,23 +1,29 @@
 ![Bio Ritmo / Smart Fit](biodevteam-2018.png)
 
 # Teste de Front-end
-Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos. **Faça um fork deste repositório.**
+Este teste é apresentado às pessoas que estão se candidatando às vagas de desenvolvimento Front-end para avaliar os quesitos técnicos. 
+
+## Como enviar seu teste
+
+* Faça um fork deste repositório
+* Abra um Pull Request
 
 ### O Desafio
 
-Seu objetivo é criar um app simples que deve conter ao menos duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
+Seu objetivo é criar um app simples que deve conter ao menos duas páginas: uma que exiba um formulário com os campos abaixo, e outra que liste os dados cadastrados.
 
 * Nome completo
 * Username
 * Email
 
 ### Pré-requisitos: 
- - Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
- - Os inputs de texto devem ser validados;
- - Fazer a persistência dos dados no `localStorage` ou `IndexedDB`;
- - Você está livre para escolher qualquer framework/biblioteca
 
-Para ter o estado inicial da lista de usuário utilizar este recurso abaixo:
+- Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
+- Os inputs de texto devem ser validados;
+- Fazer a persistência dos dados no `localStorage` ou `IndexedDB`;
+- Você está livre para escolher qualquer framework/biblioteca
+
+Para obter o estado inicial da lista de users utilizar este recurso abaixo:
 
 > GET https://jsonplaceholder.typicode.com/users	
 
@@ -58,9 +64,9 @@ A partir deste ponto utilizar o `localStorage/IndexedDB` para persistir localmen
 ### Plus:
  - A página ser responsiva;
  - Permitir edição;
- - Uso de pré-processador css;
+ - Uso de pré-processador CSS;
  - Testes End to End;
- - Consistir no Firebase
+ - Persistir no Firebase
  - Utilizar React + Redux|Mobx|Context Api
  - Webpack/Parcel
 
